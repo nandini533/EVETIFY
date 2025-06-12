@@ -1,6 +1,4 @@
 # EVETIFY #
-# EVNTIFY – Event Management Web Application
-
 Welcome to **EVNTIFY**, a modern and responsive front-end interface for managing events. This project is designed to provide users with a sleek, engaging, and user-friendly experience for exploring and managing events, ticket purchases, and administrative dashboards.
 
 ## 🌟 Features
